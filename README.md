@@ -30,7 +30,7 @@ For a quick start, you can use this snippet in your maven POM:
     <version>4.2.2</version> <!--or the latest version-->
 </dependency>
 ```
-
+legal
 More detailed prerequisites and dependencies can be found [here](http://www.vraptor.org/en/docs/dependencies-and-prerequisites/).
 
 ## Documentation
